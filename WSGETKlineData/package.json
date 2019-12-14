@@ -1,0 +1,17 @@
+{
+  "name": "WSGETKlineData",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance": "github:karthik947/binance#master",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
